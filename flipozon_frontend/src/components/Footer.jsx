@@ -3,7 +3,7 @@ import React from 'react'
 
 function Footer() {
   return (
-    <div>Footer</div>
+    <div>today there is no change</div>
   )
 }
 
