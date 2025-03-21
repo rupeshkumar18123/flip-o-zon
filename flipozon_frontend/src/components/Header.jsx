@@ -8,6 +8,7 @@ function Header() {
       <div>like</div>
       <div>cart</div>
       <div>order</div>
+      <div>profile</div>
     </div>
   )
 }
