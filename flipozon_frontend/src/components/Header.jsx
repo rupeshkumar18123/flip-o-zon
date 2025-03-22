@@ -9,6 +9,7 @@ function Header() {
       <div>cart</div>
       <div>order</div>
       <div>profile</div>
+      <div>flip-o-zon payment gateway</div>
     </div>
   )
 }
