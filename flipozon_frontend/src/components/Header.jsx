@@ -10,6 +10,7 @@ function Header() {
       <div>order</div>
       <div>profile</div>
       <div>flip-o-zon payment gateway</div>
+      <div>future implementation</div>
     </div>
   )
 }
