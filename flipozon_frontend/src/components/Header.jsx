@@ -1,10 +1,11 @@
 
 import React from 'react'
 import CartIcon from './header_component/CartIcon'
+import "./style.css"
 
 function Header() {
   return (
-    <div>
+    <div className='header'>
       {/* <div>home</div>
       <div>like</div>
       <div>cart</div>

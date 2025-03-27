@@ -1,7 +1,7 @@
 import React from "react";
-import { AiOutlineShoppingCart } from "react-icons/ai"; // Import Cart Icon
-import { useSelector } from "react-redux"; // Import Redux state
-import "Head.css";
+import { AiOutlineShoppingCart } from "react-icons/ai";
+// import { useSelector } from "react-redux"; // Import Redux state
+import "./Head.css";
 
 const CartIcon = () => {
   const cartItems = useSelector((state) => state.cart.items); // Get cart items from Redux
