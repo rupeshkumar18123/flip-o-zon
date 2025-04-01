@@ -11,7 +11,7 @@ function App() {
     <>
       <h1>flip-o-zon</h1>
       <Header/>
-      <h1>lets start it again</h1>
+      <h1>first we will make backend then we will come here</h1>
     </>
   )
 }
