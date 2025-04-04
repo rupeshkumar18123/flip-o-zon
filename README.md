@@ -7,3 +7,6 @@ User registration/login.
 Product listing and details page.
 Add to cart and checkout.
 Learning Points: State management (Redux), secure API handling, handling payments.
+
+npm install jsonwebtoken
+joi
